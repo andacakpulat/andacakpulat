@@ -39,12 +39,6 @@
 
 <!-- --- -->
 
-<p align="center">
-<a href="https://github.com/andacakpulat">
-   <img alt="github-snake" src="https://raw.githubusercontent.com/andacakpulat/andacakpulat/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
-</a>
-</p>
-
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
