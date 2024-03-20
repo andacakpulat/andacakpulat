@@ -6,11 +6,11 @@
   <img src="https://komarev.com/ghpvc/?username=andacakpulat&label=Profile%20views&color=0e75b6&style=flat" alt="andacakpulat" />
 </p>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=andacakpulat&label=Profile%20views&color=0e75b6&style=flat" alt="andacakpulat" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=andacakpulat&label=Profile%20views&color=0e75b6&style=flat" alt="andacakpulat" /> </p> -->
 
 <!-- 👨‍💻 All of my projects are available at [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)](https://github.com/andacakpulat?tab=repositories) -->
 
-<!--<p - 📫 How to reach me **andacakpulat@gmail.com** -->
+<!-- <p - 📫 How to reach me **andacakpulat@gmail.com** -->
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
