@@ -33,7 +33,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=andacakpulat&theme=swift&hide_border=true&include_all_commits=false&count_private=false" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andacakpulat&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=andacakpulat&theme=swift&hide_border=true" />
+<!-- <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=andacakpulat&theme=swift&hide_border=true" /> -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=andacakpulat&theme=swift&hide_border=true&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andacakpulat&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)  ![](https://github-readme-streak-stats.herokuapp.com/?user=andacakpulat&theme=swift&hide_border=true) -->
 
