@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andac</h1>
 <p align="center">
-  <samp>AI Specialist in Machine Learning & Computer Vision | Transforming Complex Challenges into AI Solutions | Python, PyTorch, TensorFlow Expert
+  <samp>AI Specialist in Computer Vision | Transforming Complex Challenges into AI Solutions | Python, PyTorch, TensorFlow Expert
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=andacakpulat&label=Profile%20views&color=0e75b6&style=flat" alt="andacakpulat" />
